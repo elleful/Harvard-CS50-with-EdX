@@ -24,4 +24,5 @@ The primary reason this course is being completed is to deepen my understanding 
 ## Project Completion
 Completion of project work will be documented and updated throughout the course.
 
-*Ref 1: Example Image*
+*Using Scratch to code inputs, functions and variables*
+![Day 1 of project](https://i.imgur.com/WWy7ear.png)
